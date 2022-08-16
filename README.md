@@ -18,10 +18,5 @@
 
 ## Desafios concluídos
 
-<input type="checkbox" disabled checked /> Desafio 1
-<input type="checkbox" disabled /> Desafio 2
-<input type="checkbox" disabled /> Desafio 3
-<input type="checkbox" disabled /> Desafio 4
-<input type="checkbox" disabled /> Desafio 5
-<input type="checkbox" disabled /> Desafio 6
-<input type="checkbox" disabled /> Desafio 7
+- [X] Desafio 1
+- \[] Desafio 2
