@@ -18,5 +18,5 @@
 
 ## Desafios concluídos
 
-- [X] Desafio 1
-- \[] Desafio 2
+[X] Desafio 1
+\[ ] Desafio 2
