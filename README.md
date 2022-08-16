@@ -15,12 +15,12 @@ Desafio de programação proposto pela Rocketseat com o objetivo de criar hábit
 - 6º dia: Crie um card com efeito glassmorphism
 - 7º dia: Desenvolver um contador
 
-## Desafios concluídos
+## Tarefas concluídas
 
-- [X] Desafio 1
-- \[ ] Desafio 2
-- \[ ] Desafio 3
-- \[ ] Desafio 4
-- \[ ] Desafio 5
-- \[ ] Desafio 6
-- \[ ] Desafio 7
+- [X] Tarefa 1
+- \[ ] Tarefa 2
+- \[ ] Tarefa 3
+- \[ ] Tarefa 4
+- \[ ] Tarefa 5
+- \[ ] Tarefa 6
+- \[ ] Tarefa 7
