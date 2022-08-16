@@ -1,6 +1,5 @@
 # Desafio 21 dias de código
-
-## Desafio de programação proposto pela Rocketseat
+Desafio de programação proposto pela Rocketseat com o objetivo de criar hábito de programação nos apaixonados por desenvolvimento
 
 ## Regras do desafio
 * Todos os dias você vai ter que codar por pelo menos uma hora
