@@ -65,57 +65,45 @@ h1 {
     color: #fff;
 }
 
-.switch__container {
-    margin-top: 10px;
-}
-  
-.switch {
-    visibility: hidden;
-    position: absolute;
-    margin-left: -9999px;
-}
-  
-.switch + label {
-    display: block;
-    position: relative;
+.btn {
+    box-sizing: border-box;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    background-color: transparent;
+    border: 1px solid #f1c40f;
+    border-radius: 0.3em;
+    color: #f1c40f;
     cursor: pointer;
-    outline: none;
-    user-select: none;
-}
-  
-.switch--shadow + label {
-    padding: 2px;
-    width: 120px;
-    height: 60px;
-    background-color: #dddddd;
-    border-radius: 60px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-self: center;
+        -ms-flex-item-align: center;
+            align-self: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+    margin: 20px;
+    padding: 1.2em 2.8em;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
 }
 
-.switch--shadow + label:before,
-.switch--shadow + label:after {
-    display: block;
-    position: absolute;
-    top: 1px;
-    left: 1px;
-    bottom: 1px;
-    content: "";
+.btn-animate {
+    border-color: #f1c40f;
+    color: #fff;
+    background-image: -webkit-linear-gradient(90deg, #f1c40f 50%, transparent 50%);
+    background-image: linear-gradient(90deg, #f1c40f 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 200%;
+    -webkit-transition: background 200ms ease-in-out;
+    transition: background 200ms ease-in-out;
 }
-.switch--shadow + label:before {
-    right: 1px;
-    background-color: #f1f1f1;
-    border-radius: 60px;
-    transition: background 0.4s;
-}
-.switch--shadow + label:after {
-    width: 62px;
-    background-color: #fff;
-    border-radius: 100%;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-    transition: all 0.4s;
-}
-.switch--shadow:checked + label:before {
-    background-color: #f1c40f;
-}
-.switch--shadow:checked + label:after {
-    transform: translateX(60px);
+.btn-animate:hover {
+    background-position: 0;
+    color: #292929;
 }
