@@ -18,7 +18,7 @@ Desafio de programação proposto pela Rocketseat com o objetivo de criar hábit
 ## Tarefas concluídas
 
 - [X] Tarefa 1
-- \[ ] Tarefa 2
+- [X] Tarefa 2
 - \[ ] Tarefa 3
 - \[ ] Tarefa 4
 - \[ ] Tarefa 5
