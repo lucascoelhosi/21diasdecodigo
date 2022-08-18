@@ -31,7 +31,7 @@ textarea{
 }
 
 main {
-    background-image: url('/img/rocket_smoke.jpg');
+    background-image: url('../img/rocket_smoke.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
